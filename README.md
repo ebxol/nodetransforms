@@ -1,6 +1,6 @@
 # Solver for Relative Sequential Transformations
 
-*E.B. "Xoleras" de Cruz*
+*by E.B. "Xoleras" de Cruz*
 
 ### Problem Statement
 Define a transformation tree to be a tree $G$ where each vertex holds rotation and translation data $R$ and $T$ of an axis in space, and the final orientation of said axis is the sequence of rotations and transformations of its parent vertices up to the root.
