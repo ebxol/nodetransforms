@@ -1,4 +1,4 @@
-# Transformation Solver for Relative Sequential Transformations
+# Solver for Relative Sequential Transformations
 
 *E.B. "Xoleras" de Cruz*
 
