@@ -31,4 +31,4 @@ $T^{\ast} + R^{\ast} \vec{x} = T$
 
 $R^{\ast} \vec{x} = T - T^*$
 
-Which is a linear system and we know it has a single nonzero solution because the axes are linearly independent and we assume the tree structure is nontrivial; that is, it concerns nodes with non-identity translations.
+Which is a linear system and we know it has a single nonzero solution because the axes are linearly independent and we assume the tree structure is nontrivial; that is, it concerns nodes with nonzero translations.
